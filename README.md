@@ -1,4 +1,4 @@
-# joycaption
+# image-captioner
 
 A simple script that uses the [JoyCaption](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava) model (a fine-tuned LLaVA based on Llama 3.1) to generate a long, formal descriptive caption for an image.
 
